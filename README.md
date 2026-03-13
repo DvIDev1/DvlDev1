@@ -9,9 +9,9 @@
   
 Project | Genre | Tools | Time | Release | Link |
 --- | --- | --- | --- | --- | --- |
-[Pong](https://github.com/DvIDev1/Pong) | 2D Arcade Game | Godot | 2 weeks | 2024 | [Play Here](https://skto.itch.io/pong)  | 
-[Lost](https://github.com/DvIDev1/Lost) | 3D Platformer | Godot | 10 Weeks | 2025 | [Play Here](https://s4g.itch.io/lost) |
 [Fleshripper](https://github.com/DvIDev1/Fleshripper) | 3D Boomer Shooter | Unity | 10 Weeks | 2025 | [Play Here](https://s4g.itch.io/fleshripper) |
+[Lost](https://github.com/DvIDev1/Lost) | 3D Platformer | Godot | 10 Weeks | 2025 | [Play Here](https://s4g.itch.io/lost) |
+[Pong](https://github.com/DvIDev1/Pong) | 2D Arcade Game | Godot | 2 weeks | 2024 | [Play Here](https://skto.itch.io/pong)  | 
 --- | --- | --- | --- | --- | --- |
 
 </div>
